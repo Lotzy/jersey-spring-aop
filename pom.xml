@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.lotzy</groupId>
-	<artifactId>jersey-spring-rest</artifactId>
+	<artifactId>jersey-spring-aop</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
-	<name>jersey-spring-rest</name>
+	<name>jersey-spring-aop</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
@@ -18,7 +18,7 @@
 	</properties>
 
 	<build>
-		<finalName>jersey-spring-rest</finalName>
+		<finalName>jersey-spring-aop</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
