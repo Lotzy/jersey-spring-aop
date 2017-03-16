@@ -8,16 +8,14 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
  * <pre>
  * Title: JUnitConfigurator class
  * Description: Spring configuration with annotations for JUnit testing
- * Copyright: Copyright (c) 2017
- * Company: Almaviva S.p.A.
  * </pre>
  *
- * @author Lotzy (lotzy_l@yahoo.com)
+ * @author Lotzy
  * @version 1.0
  */
 @EnableAspectJAutoProxy
 @Configuration
 @ComponentScan({"com.lotzy"})
 public class JUnitConfigurator {
-
+	//nothing needed yet
 }

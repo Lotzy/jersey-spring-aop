@@ -8,11 +8,9 @@ import com.lotzy.service.GreetingService;
  * <pre>
  * Title: GreetingServiceImpl class
  * Description: Greeting service implementation
- * Copyright: Copyright (c) 2016
- * Company: Almaviva S.p.A.
  * </pre>
  *
- * @author Lotzy (lotzy_l@yahoo.com)
+ * @author Lotzy
  * @version 1.0
  */
 @Service

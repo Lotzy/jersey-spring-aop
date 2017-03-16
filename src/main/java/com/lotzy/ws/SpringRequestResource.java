@@ -16,15 +16,13 @@ import com.lotzy.service.GreetingService;
  * <pre>
  * Title: SpringRequestResource class
  * Description:
- * Copyright: Copyright (c) 2016
- * Company: Almaviva S.p.A.
  * </pre>
  *
- * @author Lotzy (lotzy_l@yahoo.com)
+ * @author Lotzy
  * @version 1.0
  */
 @Path("/spring-hello")
-@Component //this shit is a must, otherwise the point cuts defined with the aspect annotations will not work
+@Component //this is a must, otherwise the point cuts defined with the aspect annotations will not work
 public class SpringRequestResource {
 
 	@Autowired

@@ -9,11 +9,9 @@ import java.lang.annotation.Target;
  * <pre>
  * Title: Loggable interface
  * Description: Annotation definition
- * Copyright: Copyright (c) 2017
- * Company: Almaviva S.p.A.
  * </pre>
  *
- * @author Lotzy (lotzy_l@yahoo.com)
+ * @author Lotzy
  * @version 1.0
  */
 @Retention(RetentionPolicy.RUNTIME)

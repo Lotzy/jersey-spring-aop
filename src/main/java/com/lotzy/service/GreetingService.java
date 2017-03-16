@@ -4,11 +4,9 @@ package com.lotzy.service;
  * <pre>
  * Title: GreetingService interface
  * Description: Greeting service interface
- * Copyright: Copyright (c) 2016
- * Company: Almaviva S.p.A.
  * </pre>
  *
- * @author Lotzy (lotzy_l@yahoo.com)
+ * @author Lotzy
  * @version 1.0
  */
 public interface GreetingService {

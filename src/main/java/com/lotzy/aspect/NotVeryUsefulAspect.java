@@ -8,11 +8,9 @@ import org.springframework.stereotype.Component;
  * <pre>
  * Title: NotVeryUsefulAspect class
  * Description: Aspect definition class
- * Copyright: Copyright (c) 2017
- * Company: Almaviva S.p.A.
  * </pre>
  *
- * @author Lotzy (lotzy_l@yahoo.com)
+ * @author Lotzy
  * @version 1.0
  */
 @Aspect

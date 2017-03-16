@@ -8,11 +8,9 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
  * <pre>
  * Title: AppConfigurator class
  * Description: Spring application configuration using annotations
- * Copyright: Copyright (c) 2017
- * Company: Almaviva S.p.A.
  * </pre>
  *
- * @author Lotzy (lotzy_l@yahoo.com)
+ * @author Lotzy
  * @version 1.0
  */
 @EnableAspectJAutoProxy //enables AspectJ support within the Spring beans
