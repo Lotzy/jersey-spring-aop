@@ -5,5 +5,5 @@ Example of RESTFull services with Jersey, Spring and AspectJ support
 2. Deploy in Tomcat under Eclipse
 3. See JUnit tests
 3. URL for the rest endpoints:
-		http://localhost:8080/jersey-spring-rest/rest/spring-hello/mumu or
-    http://localhost:8080/jersey-spring-rest/rest/spring-hello
+		http://localhost:8080/jersey-spring-aop/rest/spring-hello/mumu or
+		http://localhost:8080/jersey-spring-aop/rest/spring-hello
