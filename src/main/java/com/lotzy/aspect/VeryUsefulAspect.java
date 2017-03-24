@@ -30,11 +30,9 @@ public class VeryUsefulAspect {
 	@Around("@annotation(loggable)")
 	public Object myAdvice(ProceedingJoinPoint pjp, Loggable loggable) throws Throwable {
 		System.out.println("Executing myAdvice!! - Begin");
-		Object returnValue = null;
-
 
 		System.out.println("Start method execution");
-		returnValue = pjp.proceed(); //this will execute the annotated method
+		Object returnValue = pjp.proceed(); //this will execute the annotated method
 		System.out.println("After method execution");
 		return returnValue;
 	}
