@@ -15,7 +15,7 @@ import org.springframework.stereotype.Component;
  * @version 1.0
  */
 @Aspect
-@Component //without this shit will not work
+@Component //without this will not work
 public class VeryUsefulAspect {
 
 	/**
@@ -31,6 +31,7 @@ public class VeryUsefulAspect {
 	public Object myAdvice(ProceedingJoinPoint pjp, Loggable loggable) throws Throwable {
 		System.out.println("Executing myAdvice!! - Begin");
 		Object returnValue = null;
+
 
 		System.out.println("Start method execution");
 		returnValue = pjp.proceed(); //this will execute the annotated method
