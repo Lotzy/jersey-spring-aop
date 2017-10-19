@@ -20,12 +20,10 @@ import com.fasterxml.jackson.databind.node.ObjectNode;
 /**
  * <pre>
  * Title: ObjToJsonTest
- * Description:
- * Copyright: Copyright (c) 2016
- * Company: Almaviva S.p.A.
+ * Description: JUnit test for JSON transformations
  * </pre>
  *
- * @author Lotzy (lotzy_l@yahoo.com)
+ * @author Lotzy
  * @version 1.0
  */
 public class ObjToJsonTest {
