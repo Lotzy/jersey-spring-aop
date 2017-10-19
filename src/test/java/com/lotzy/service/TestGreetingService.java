@@ -12,8 +12,8 @@ import com.lotzy.JUnitConfigurator;
 
 /**
  * <pre>
- * Title: TestGreetingService
- * Description:
+ * Title: TestGreetingService class
+ * Description: JUnit test class for GreetingService
  * </pre>
  *
  * @author Lotzy

@@ -15,7 +15,7 @@ import com.lotzy.service.GreetingService;
 /**
  * <pre>
  * Title: SpringRequestResource class
- * Description:
+ * Description: Component serving the REST services
  * </pre>
  *
  * @author Lotzy
